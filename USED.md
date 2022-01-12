@@ -1,2 +1,10 @@
 ## Publish a Kotlin library to Maven Central
-https://medium.com/kodein-koders/publish-a-kotlin-multiplatform-library-on-maven-central-6e8a394b7030
+https://mrcurious.medium.com/publishing-your-android-kotlin-library-to-maven-central-in-2021-df263a4f2cbc
+
+https://central.sonatype.org/publish/publish-guide/#deployment
+https://central.sonatype.org/publish/publish-maven/
+https://central.sonatype.org/publish/publish-gradle/
+
+
+GPG\
+https://central.sonatype.org/publish/requirements/gpg/

@@ -1,7 +1,6 @@
 package team.comdemonsters.functional.domain
 import java.io.Serializable
 
-
 class DomainResult<T> : Serializable {
 
     private val _result: T?
