@@ -8,3 +8,7 @@ https://central.sonatype.org/publish/publish-gradle/
 
 GPG\
 https://central.sonatype.org/publish/requirements/gpg/
+```
+./gradlew publish -S
+```
+https://s01.oss.sonatype.org/
